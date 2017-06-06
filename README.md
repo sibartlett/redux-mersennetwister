@@ -1,5 +1,7 @@
 # redux-mersennetwister
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sibartlett/redux-mersennetwister.svg)](https://greenkeeper.io/)
+
 A redux reducer that generates pseudo random numbers using the [Mersenne Twister algorithm](https://en.wikipedia.org/wiki/Mersenne_Twister).
 
 ### Example usage
