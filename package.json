@@ -11,9 +11,9 @@
   "devDependencies": {
     "babel-core": "^6.3.17",
     "babel-preset-es2015": "^6.3.13",
-    "code": "^2.0.1",
+    "code": "^4.0.0",
     "deep-freeze-strict": "^1.1.1",
-    "lab": "^8.0.0",
+    "lab": "^13.1.0",
     "lab-babel": "^1.1.1",
     "mersennetwister": "^0.2.2"
   },
